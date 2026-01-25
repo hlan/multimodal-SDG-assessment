@@ -58,7 +58,7 @@ This directory includes intermediate and final outputs retained for completeness
 - This file contains multiple tabs about cluster-level SDG performance statistics, including standardized scores, descriptive summaries, and inferential analyses (ANOVA and post hoc Tukey HSD) used to support comparative interpretation and SDG level assignment.
   - `cluster_sdg_results.xlsx`
 
-- This table reports country-level cluster assignments, posterior membership probabilities across clusters, and distance-based diagnostics (Euclidean and Mahalanobis distances) used to quantify assignment confidence and cluster proximity.
+- This table reports country-level cluster assignments, membership probabilities across clusters, and distance-based diagnostics (Euclidean and Mahalanobis distances) used to quantify assignment confidence and cluster proximity.
   - `cluster_membership_with_distances_k7.csv`
 
 ---
