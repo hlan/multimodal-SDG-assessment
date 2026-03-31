@@ -5,7 +5,7 @@
 This repository contains the code and intermediate outputs used in the study titled:
 
 **Multimodal learning reshapes the assessment of global Sustainable Development Goals**,  
-submitted to **Nature Sustainability**.
+submitted to **Proceedings of the National Academy of Sciences (PNAS)**.
 
 ---
 
