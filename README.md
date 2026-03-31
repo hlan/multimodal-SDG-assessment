@@ -1,10 +1,10 @@
 # Code and Data for:
 
-## Multimodal learning reshapes the assessment of global Sustainable Development Goals
+## Deep learning from multimodal data reveals that advanced economies face the sharpest sustainability trade-offs
 
 This repository contains the code and intermediate outputs used in the study titled:
 
-**Multimodal learning reshapes the assessment of global Sustainable Development Goals**,  
+**Deep learning from multimodal data reveals that advanced economies face the sharpest sustainability trade-offs**,  
 submitted to **Proceedings of the National Academy of Sciences (PNAS)**.
 
 ---
@@ -84,6 +84,6 @@ This study was executed in a GPU-accelerated computing environment designed to s
 
 If you reference this work, please cite the associated manuscript:
 
-> Multimodal learning reshapes the assessment of global Sustainable Development Goals.
+> Deep learning from multimodal data reveals that advanced economies face the sharpest sustainability trade-offs.
 
 Full citation details will be added upon publication.
