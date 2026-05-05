@@ -5,7 +5,7 @@
 This repository contains the code and intermediate outputs used in the study titled:
 
 **Deep learning from multimodal data reveals that advanced economies face the sharpest sustainability trade-offs**,  
-submitted to **Proceedings of the National Academy of Sciences (PNAS)**.
+submitted to **One Earth**.
 
 ---
 
