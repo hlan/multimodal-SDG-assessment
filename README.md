@@ -1,11 +1,11 @@
 # Code and Data for:
 
-## Deep learning from multimodal data reveals that advanced economies face the sharpest sustainability trade-offs
+## Global development regimes shape synergies and trade-offs among Sustainable Development Goals
 
 This repository contains the code and intermediate outputs used in the study titled:
 
-**Deep learning from multimodal data reveals that advanced economies face the sharpest sustainability trade-offs**,  
-submitted to **One Earth**.
+**Global development regimes shape synergies and trade-offs among Sustainable Development Goals**,  
+submitted to **Science Bulletin**.
 
 ---
 
@@ -84,6 +84,6 @@ This study was executed in a GPU-accelerated computing environment designed to s
 
 If you reference this work, please cite the associated manuscript:
 
-> Deep learning from multimodal data reveals that advanced economies face the sharpest sustainability trade-offs.
+> Global development regimes shape synergies and trade-offs among Sustainable Development Goals.
 
 Full citation details will be added upon publication.
