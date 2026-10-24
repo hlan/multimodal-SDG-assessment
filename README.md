@@ -5,7 +5,7 @@
 This repository contains the code and intermediate outputs used in the study titled:
 
 **Global development regimes shape synergies and trade-offs among Sustainable Development Goals**,  
-submitted to **Science Bulletin**.
+submitted to **Communications Earth & Environment**.
 
 ---
 
