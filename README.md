@@ -1,10 +1,10 @@
 # Code and Data for:
 
-## Global development regimes shape synergies and trade-offs among Sustainable Development Goals
+## Socio-environmental regimes shape the synergies and trade-offs of the Sustainable Development Goals
 
 This repository contains the code and intermediate outputs used in the study titled:
 
-**Global development regimes shape synergies and trade-offs among Sustainable Development Goals**,  
+**Socio-environmental regimes shape the synergies and trade-offs of the Sustainable Development Goals**,  
 submitted to **Communications Earth & Environment**.
 
 ---
@@ -84,6 +84,6 @@ This study was executed in a GPU-accelerated computing environment designed to s
 
 If you reference this work, please cite the associated manuscript:
 
-> Global development regimes shape synergies and trade-offs among Sustainable Development Goals.
+> Socio-environmental regimes shape the synergies and trade-offs of the Sustainable Development Goals.
 
 Full citation details will be added upon publication.
