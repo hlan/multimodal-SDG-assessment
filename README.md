@@ -5,7 +5,7 @@
 This repository contains the code and intermediate outputs used in the study titled:
 
 **Socio-environmental regimes shape the synergies and trade-offs of the Sustainable Development Goals**,  
-submitted to **Communications Earth & Environment**.
+submitted to **Sustainable Development**.
 
 ---
 
